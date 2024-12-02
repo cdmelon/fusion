@@ -2,8 +2,8 @@
 
 # Code README
 
-This codebase is based on PAIE (Prompting Argument Interaction for
-Event Argument Extraction), with modifications to allow for the combination of selective and generative methods.
+Code and datasets for the Coling 2025 paper "Fusion meets Function: The Adaptive Selection-Generation Approach in Event Argument Extraction".
+This codebase is based on PAIE (Prompting Argument Interaction for Event Argument Extraction), with modifications to allow for the combination of selective and generative methods.
 
 ## Usage
 
